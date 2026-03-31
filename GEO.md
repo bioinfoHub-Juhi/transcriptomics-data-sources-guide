@@ -193,3 +193,11 @@ Use GEO Profiles when you want to:
 
 For most bioinformatics workflows, you will primarily work with **GEO DataSets (GSE)**.
 
+### Searching Dataset in GEO
+
+![GEO Search](images/geo_search.png)
+
+### GEO Series (GSE) Page
+
+![GEO GSE Page](images/geo_series.png)
+
